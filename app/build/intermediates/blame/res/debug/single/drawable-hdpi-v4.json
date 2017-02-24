@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dcloud_snow_white_progress.xml",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/drawable-hdpi/dcloud_snow_white_progress.xml"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dcloud_snow_black_progress.xml",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/drawable-hdpi/dcloud_snow_black_progress.xml"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/snow_black_progress.xml",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/drawable-hdpi/snow_black_progress.xml"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/snow_white_progress.xml",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/drawable-hdpi/snow_white_progress.xml"
+    }
+]

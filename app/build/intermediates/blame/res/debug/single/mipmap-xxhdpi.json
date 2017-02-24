@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/guzhang.png",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/mipmap-xxhdpi/guzhang.png"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/dianji.png",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/mipmap-xxhdpi/dianji.png"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/msocket.png",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/mipmap-xxhdpi/msocket.png"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/mistake.png",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/mipmap-xxhdpi/mistake.png"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/add.png",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/mipmap-xxhdpi/add.png"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/dingwei.png",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/mipmap-xxhdpi/dingwei.png"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/power.png",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/mipmap-xxhdpi/power.png"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/sock.png",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/mipmap-xxhdpi/sock.png"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/qudongban.png",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/mipmap-xxhdpi/qudongban.png"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/mode.png",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/mipmap-xxhdpi/mode.png"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/monmistake.png",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/mipmap-xxhdpi/monmistake.png"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/statue.png",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/mipmap-xxhdpi/statue.png"
+    }
+]

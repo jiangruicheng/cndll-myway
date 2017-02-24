@@ -1,0 +1,7 @@
+#Fri Feb 24 20:38:10 CST 2017
+base.0=/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_36c7f6766b739330df275b8da8108e2a714e7b67
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_57ad06e83cbd70e413f3e2f8e68d26b5a0c45da9/classes.dex
+base.1=/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_57ad06e83cbd70e413f3e2f8e68d26b5a0c45da9
+file.0=/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_36c7f6766b739330df275b8da8108e2a714e7b67/classes.dex

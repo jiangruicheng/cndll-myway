@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/drawable-ldpi/icon.png",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/drawable-ldpi/push.png",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/drawable-ldpi/push.png"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/mipmap-hdpi/logo.png",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/mipmap-hdpi/logo.png"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/mipmap-hdpi/kuang.png",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/mipmap-hdpi/kuang.png"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/mipmap-hdpi/road.png",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/mipmap-hdpi/road.png"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/mipmap-hdpi/active.png",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/mipmap-hdpi/active.png"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/mipmap-hdpi/refresh.png",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/mipmap-hdpi/refresh.png"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/mipmap-hdpi/car.png",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/mipmap-hdpi/car.png"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/mipmap-hdpi/bg.png",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/mipmap-hdpi/bg.png"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/mipmap-hdpi/back.png",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/mipmap-hdpi/back.png"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/mipmap-hdpi/lianjie.png",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/mipmap-hdpi/lianjie.png"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/mipmap-hdpi/my.png",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/mipmap-hdpi/my.png"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/mipmap-hdpi/launcher.png",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/mipmap-hdpi/launcher.png"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/mipmap-hdpi/found.png",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/mipmap-hdpi/found.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/raw/keep.xml",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/raw/keep.xml"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/raw/led.bin",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/raw/led.bin"
+    }
+]

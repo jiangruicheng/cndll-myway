@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.4.0_efd3467f22a6b424c7858e554cc423ec1cb3fb97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_61867a15290968c060737861c5b1ba68d1929b82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.1_33fc633ab4fadfe8df65c21f775b8a1e374906a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/oauth.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="59a7ff6d495c5f1f238d03ed187835edd1f9f76b">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/oauth_4295b0d089294a859c4cb93f5052db4f72cfc53a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_5e7206f1c574283df7ba2013064a96c7284cc5c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/aps-igexin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3abaa440e5ea7eb96b745102a1cad6bde8d36d33">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/aps-igexin_4268725bbfa1b15919b4f4635d4c7d53fc2254f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/umeng-analytics-v6.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aab9085bca0c26dcb9cb11837a5f5e22cc102a5e">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/umeng-analytics-v6.0.1_d51e41f78bad6ad3ee9525ff4d908dc3bdf78702/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/downloader.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a0a05cc0f1c388905b1c9c9de39fca6899344cb">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/downloader_ebc633ac37f878e42fb65c5baddd5a84bd857129/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.1/4e4cfa4adc74521d5966799fa5ab70b733552f68/rxjava-1.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e4cfa4adc74521d5966799fa5ab70b733552f68">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.2.1_da8ca4c5ab4a6d2a4c751bcb3ddb6f0e27227356/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/payment-weixin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c989b0e036af7fff724e369889c9bc30d802045d">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/payment-weixin_33bddbd6d3d34cebe4d2db69560636a2c3677e16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/nativeui.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecfe5861c249fd7729b2dbc0ef0014a27df3f358">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/nativeui_f8901244ce861739d89eafaa318aa21dbfc5bc73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/oauth.1.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b810f6ac8197c3806ea0371a6a4896bacc8755a7">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/oauth.1.5.1_57646e4752f8abbc3a87f40de15a4db7b1d16190/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/exploded-aar/com.kyleduo.switchbutton/library/1.4.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc8e3e3b486160c2382f499319b1c70adbf32575">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.kyleduo.switchbutton-library-1.4.4_74f065837a400b3dd3b6c6764aafeebdaaa4848d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_b3a9c37520e56aeadc262f95c9691422eaa6e287/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_0bb3fa4900639baa5b4974681304a5ea5d78ad2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/xhr.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bdb4b8c5df09298eec1ee835eb172be4d06e3a4">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/xhr_6ee3ddcb857161326a3297de201825469366a9a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/pdr.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ebbf976c894390f4914f290dafb6572ab46cf6ef">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/pdr_37454066dc4149b63f58974249e066e741f105d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7fc224d5cd08a108ded9e0cfe6775a907499e2a0">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_36c7f6766b739330df275b8da8108e2a714e7b67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/share-qq.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d68949b749582832e2f8612fd85f2ecd871b31c4">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/share-qq_83e397dc044d059ca60adb310600b30b080a9051/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/oauth-qq.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3fc0f751d50f7e263c0582d841566137bb4d853f">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/oauth-qq_83d5c5c7b63dc6bf435ae84923e29e9be574a00d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/geolocation-baidu.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2503be6ba36204e02c6f61bd6c81c685db7441f9">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/geolocation-baidu_20634cdcff5a3c1452e767df27ed6856e4e9b264/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/open_sdk_r5043_lite.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1f213f03dfe8868d0b24898234f6eefb67015a4a">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/open_sdk_r5043_lite_fe89db72dfc4bdb1106c7287324d922387f10af6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/json_simple-1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/json_simple-1.1_0bebc544fccce925e40bb59956b55b52a127faf3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/contacts.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6810b316008634bf560cc43cd7b21ead7a8b516b">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/contacts_087444e43cf41f47b90b0f8d53eafa6eb4e1ac8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/device.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd0cab21edbce40a304a4e72f6a0f3b58a67d20d">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/device_ced6d44a8030aa7bb5bdd46cace0db852f3b7f0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/MapApiLocation_1.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="71e7604372d8a66689ff8df047e9a748e19a5169">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/MapApiLocation_1.3.3_96fd0df0c10ba858959754f6a1329f078b3b8d9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/weibosdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="860f7bf08016ffb93f564cdebab6d70586ad46d6">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/weibosdk_e2b85aaf2aae0ee6f092aef65e4bb7c443e1c40e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/MiPush_SDK_Client_3_1_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be4a7a20473c8e53375e59bef1af1bccaf1a7276">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/MiPush_SDK_Client_3_1_2_b2011ff6d1de592219f2d4520b6c4dc0dd3e9ad1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f309837db1565a68df6c3b02395ca02ef235436c">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_57ad06e83cbd70e413f3e2f8e68d26b5a0c45da9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/my-imageloader.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab9884b5fbb697cd743db8a8be23d757c3ba7fac">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/my-imageloader_c76b8445c80486b35a20673d7c974a19afc08147/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/file.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f28811104dd7c29f78b60a0083a9940cbb0ed173">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/file_20cb1cdadae3ed6ed37f5b145b75b5874fef0db1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/statistics-umeng.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd2fd56b2d2532cf464b5c4e08bac74e88c08397">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/statistics-umeng_51a8ab1639f1343cf8d81fad01f0c117f29ec05c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/speech_ifly.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd2c431bf1c1b77c9cf3fad61ee6c196d4541c25">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/speech_ifly_1150dc00ea61f6d645d7426c3cf1e3e8e4ab3725/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_29a6d21b9f1c43b99cdcfed419158654cb9173fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/payment-alipay.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f81dd421d8d5161f9c4ba79e3df1b0fa2dafc9c">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/payment-alipay_4d607be428a58ff17912014114301b8c0bbc3541/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/nopermission.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="113e6b86ad4ce55701a20770674a377f2724769a">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/nopermission_5fd730cb490b12abe1baa935291b5dea73f9f2f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/share-sina.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34298576848cb909b72a9be13441d0037dd65102">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/share-sina_52761f05906ce5e282064bc423581c6c0ba921ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/share-tencent.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="37eef71f1a00bb97296a0c150574cdafdf490c05">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/share-tencent_9e441b861fcec1fb98798677b4123ca9821ee2c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/aps.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbaa10e1ef091aae9fead5148a458f5907c375ae">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/aps_27554fac798eca0c8edeb3158a192168caeb368a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/oauth-weixin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4d1854481586546eab45935a88bdeae320ebd7c">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/oauth-weixin_4a614a826854b211c357b36a77d55ef703eb4dad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/exploded-aar/com.github.zcweng/switch-button/0.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2edb96379079e3de24bc988c4f32bae6763a7a51">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.zcweng-switch-button-0.0.2_210420f992e94bd5e2e8bd203ac2957bf1e6a7cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/uploader.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4091fcb70826b05b18ada4fd3dbc5eddc0c3b4c">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/uploader_c96d5814252658eabc59523795adc178126348b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/audio.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf0613412eadfc15ff8dcba903574f317e6322c5">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/audio_5809b84ef8665f6dd27d45f027d090394cafd18b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/ui.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="670ae9ed3ab4e77e6f293e64abfeae3405e5d897">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/ui_4ffcff8e172e2c27321b1d61809ba1bb60df981e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/weibosdkcore_release.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="265f83894203f2bd137185bc3cefaca45b186ca0">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/weibosdkcore_release_11861adca56853d8ebb41a06dd22a734e853dcf5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/nativeObj.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f11f891919498f1520398305768e3277bb6e6ca3">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/nativeObj_9602b4e27eaaa93a9c5c7c56420733cc02c90db3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/navigatorui.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="082994448e5fa27a2d80fa93a349dec258c45d9b">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/navigatorui_6c4b427c60a172f1e3832c27f116572285343a09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/invocation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12492efd10634fc278de3c5fd77de7714ef2020b">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/invocation_6d49c0028c832f53738d2382900aa2440acd39d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/Msc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="994d12017bc2c9ba570180cde5500689d134e6e6">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/Msc_bdb2cc94b410be7a4b7fa329aae4f81bd6e00527/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/messaging.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="264418f99893d5529e0b72e086869580207038ca">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/messaging_b13970c2d2c5dbc1e1f2c4dfb90717f6d5c911bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/alipaySingle-20161009.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="31f812214a55c8ea97c17bc0d07f61224ba72634">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/alipaySingle-20161009_37f1b07b717961af3e74e8811952f6d11e699ae5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_2db0e7ec2a189382e35b2c13399d16cdd38bf61f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/sensor.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93f81bbde1aeaa85ca0325537448f3da170ece51">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/sensor_705462f399d0e394aca7d5d4b30120899b7b8d5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/alipayutdid.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4345fa0a5a7768f2f9c86aaab7db9e2906765193">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/alipayutdid_4a1a9de3f3f30d346306f8aa0cf90918797ea2d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/aps-xiaomi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="129d5009f38d707f3a0914ef60dabe0d46a9c579">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/aps-xiaomi_0ac350354bcb4754f71ee1014f633b48817151c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/GetuiSDK2.9.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d888c3d15466628e773b1077580fcde1a4e2927c">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/GetuiSDK2.9.3.0_e50c469c4a832d620ebf9edfd88109b5111cb3f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/geolocation-amap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e56a653187344585c803a4c0fc7c4ae89feaf358">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/geolocation-amap_d1cead8b395789e97daacc7b3bf24300808b3912/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/gallery.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="373fc92d8391f6d45a91cf6d25584b090df2ac42">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/gallery_7de5233a0478b865270920649becd101e4324807/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/tx_weibo_sdk-httpclient-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6364bcc1b2b2aa69d008602d36a700453648560">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/tx_weibo_sdk-httpclient-3.0.1_e2dfe78163a25fb8c9bbb5dd0193a7d49e43232f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/tx_weibo_sdk_component.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="17d672bf657b4d848d1b33782496fc0dd972072c">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/tx_weibo_sdk_component_0ee8db297f01c9dcf94abcbbcc91d3511ea03563/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/oauth-miui.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9626172de99097ecdf1bb13617014cefc535ab26">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/oauth-miui_a17a6e834071a0892bcb6c92ea3396820440799d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/camera.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2476a728284377a48068631a1150932f201ce634">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/camera_4c3a628c3db8d19fc2faae2de9a1b6761fb976e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/share.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="498afe2b5836d4ae5401b2c9b3435fcf84a2bc2a">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/share_579d7e25eba49f34e55a156c8ff9e435a7f0e0e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_cfc85b3f331e9acce104365094df0e7d0f28a717/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/barcode.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fd10c4fdd7b8466f587813bda1523c2ae5246d5c">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/barcode_649f9d5ad294b8449b302ef89f6a4f383b3eb941/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/geolocation-system.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4eb43c42da92fb1ea7d16f44c29794e508922f1a">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/geolocation-system_b5928e21494d5fec4e9e1e890f0492255762f323/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/share-weixin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e64c3e7999fcc574dcad0c46c9f1e5d30c901638">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/share-weixin_f9b8b13ef0ab829d7888c89bf81e85888d4aba5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/payment.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9a378d84cce5e6d525192a1e21028d70bb2b10d3">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/payment_9ae26a037ee83e5ac96e2059cd8edf0c3d3b054c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cc5fb6c6a98c9ba56e774cb20fa9b48bc6f75f3">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/BaiduLBS_Android_8f2ea7de62923e5eda918c1b43bcfb8373793fb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/oauth-sina.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e19a717d2b32b6688c2420c166f455247b893f59">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/oauth-sina_683ef6a34b5007828165557a983eb6966b58502f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.0_1c2990479a5def65cac891abcf5c27befca27142/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/exploded-aar/com.tencent.bugly/crashreport/2.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="77ce2479966f7f7fb8c18213136c6282d7390407">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.tencent.bugly-crashreport-2.4.0_78b6b1ec0053abf1718b6fbc2fb3a5761f80da45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/geolocation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12173b91cf4527d9a5e2450ca244a362d7883b73">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/geolocation_ea925719e665a255b7a1bca7fd96ed98af9a8ce7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/map-baidu.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3d03080fcc67531f8dbc92189409ebe8187c44c">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/map-baidu_ddd6c955b796751c83d25690a19bdb890269653c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/tx_wx.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/tx_wx_bf16cbb47ee1c279a9c6a48f202453a285236ae6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/tx_weibo_sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="33921321a220f3927929217aeed32befede21502">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/tx_weibo_sdk_b61834e3326ae7c7276f5ea575597a474a0ac90c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_a036434284c892467137419e118d383ce04ec5e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/nineoldandroids-2.4.0_b3a7da85dfc91824078ea7c25e96eda465823de4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/libs/speech.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e295bcd263beecef1713a60725c847338360be1f">
+        <dex dex="/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/transforms/dex/debug/folders/1000/2/speech_37db5e8d246f44d649c9a72a493c8915d8f4dea8/classes.dex" />
+    </item>
+
+</items>
