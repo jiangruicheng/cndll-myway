@@ -57,7 +57,7 @@
         android:layout_marginTop="90dp">
 
 
-        <com.HBuilder.integrate.view.ArcProgBar
+        <com.cndll.myway.view.ArcProgBar
             android:id="@+id/licheng"
             android:layout_width="160dp"
             android:layout_height="160dp"
@@ -68,7 +68,7 @@
             app:title="总里程(km)"
             />
 
-        <com.HBuilder.integrate.view.ArcProgBar
+        <com.cndll.myway.view.ArcProgBar
             android:id="@+id/dianliang"
             android:layout_width="160dp"
             android:layout_height="160dp"
@@ -79,7 +79,7 @@
             app:title="电量(%)"
             />
 
-        <com.HBuilder.integrate.view.ArcProgBar
+        <com.cndll.myway.view.ArcProgBar
             android:id="@+id/sudu"
             android:layout_width="240dp"
             android:layout_height="240dp"

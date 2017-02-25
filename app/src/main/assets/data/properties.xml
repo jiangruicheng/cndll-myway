@@ -3,7 +3,7 @@
     <features>
         <feature
             name="myway"
-            value="com.HBuilder.integrate.Ifeature.StartActivity"/>
+            value="com.cndll.myway.Ifeature.StartActivity"/>
         <feature
             name="Accelerometer"
             value="io.dcloud.feature.sensor.AccelerometerFeatureImpl"/>
