@@ -32,32 +32,32 @@
         "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/layout/activity_main_market.xml",
-        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/layout/activity_main_market.xml"
-    },
-    {
-        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_popup_menu_item_layout.xml"
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/layout/activity_connect_ble.xml",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/layout/activity_connect_ble.xml"
     },
     {
         "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
         "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_dialog_title_material.xml"
     },
     {
-        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/layout/activity_connect_ble.xml",
-        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/layout/activity_connect_ble.xml"
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/layout/activity_main_market.xml",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/layout/activity_main_market.xml"
     },
     {
         "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/layout/fragment_updata.xml",
         "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/layout/fragment_updata.xml"
     },
     {
-        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_bar_title_item.xml"
-    },
-    {
         "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
         "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_bar_title_item.xml"
     },
     {
         "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/layout/popview_prog.xml",

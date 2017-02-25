@@ -96,12 +96,12 @@
         "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable-hdpi/abc_ic_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/drawable-hdpi/snow_white.png",
-        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/drawable-hdpi/snow_white.png"
-    },
-    {
         "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_longpressed_holo.9.png",
         "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable-hdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/drawable-hdpi/snow_white.png",
+        "source": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/src/main/res/drawable-hdpi/snow_white.png"
     },
     {
         "merged": "/home/kongqing/AndroidStudioProjects/HBuilder-Integrate1/app/build/intermediates/res/merged/debug/drawable-hdpi/snow_black.png",

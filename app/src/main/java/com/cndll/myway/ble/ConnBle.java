@@ -266,10 +266,25 @@ public class ConnBle {
                         for (BluetoothGattCharacteristic characteristic : gattService.getCharacteristics()) {
                             gatt.setCharacteristicNotification(characteristic, true);
                         }
-                        isRun = true;
+                        new Thread() {
+                            @Override
+                            public void run() {
+                                super.run();
+                                try {
+                                    sleep(2000);
+                                } catch (InterruptedException e) {
+                                    e.printStackTrace();
+                                }
+                                write(Command.getCommand(Command.setData(Command.COM_QUERY, new byte[]{0x01})));
+                                setConnectingMesg(gatt);
+                                RxBus.getDefault().post(new ConnSucc());
+                                isRun = true;
+                            }
+                        }.start();
+                        /*isRun = true;
                         setConnectingMesg(gatt);
                         RxBus.getDefault().post(new ConnSucc());
-                        Log.d("ble", "getserver: success");
+                        Log.d("ble", "getserver: success");*/
                     }
                 }
                 break;
@@ -424,11 +439,11 @@ public class ConnBle {
             if (ByteUtil.getString(characteristic.getValue()).equals("C") && b) {
                 b = false;
                 isupdata = true;
-                AssetFileDescriptor file   = context.getResources().openRawResourceFd(R.raw.led);
+                AssetFileDescriptor file = context.getResources().openRawResourceFd(R.raw.led);
 
-                byte[]              updata = Updata.getSOH(file);
+                byte[] updata = Updata.getSOH(file);
 
-             //   byte[]              updata = Updata.getSOH(file);
+                //   byte[]              updata = Updata.getSOH(file);
 
                 /*updata[0] = 0x01;
                 updata[1] = 0x00;
